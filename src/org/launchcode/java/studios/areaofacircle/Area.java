@@ -12,6 +12,7 @@ public class Area {
         Scanner inputRead = new Scanner(System.in);
         
         radius = inputRead.next();
+        inputRead.close();
 
         try
         {
