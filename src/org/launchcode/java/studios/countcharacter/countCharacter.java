@@ -1,4 +1,4 @@
-package org.launchcode.java.studio.countcharacter;
+package org.launchcode.java.studios.countcharacter;
 
 import java.io.File;
 import java.io.FileNotFoundException;
